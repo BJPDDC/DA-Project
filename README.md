@@ -1,2 +1,2 @@
 # DA-Project
-Project on Data Analysis using Oracle DB, MySQL, Power BI and MS Excel 
+Project on Data Analysis using Oracle DB, MySQL, Power BI and MS Excel . Have generated real time dashboards in Power BI for analyzing and generating insights of the cleaned data through a pictorial representation. I have used Oracle DB, MySQL for query creation and cleansing of raw and duplicate data. The generated outputs were then converted to CSV Files using MS Excel, then the files were imported to the Power BI desktop where using the cleaned data outputs, pictorial and graphical representation of the Data was done
